@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="hhttps://avatars.githubusercontent.com/u/40352792" width="200px"/><br/>
+  <img src="https://avatars.githubusercontent.com/u/40352792" width="200px"/><br/>
   Hi, I am Somritht
 </h1>
 
