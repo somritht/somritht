@@ -30,8 +30,8 @@
 
 ## Support me
 
-<a href="https://www.buymeacoffee.com/somrith" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;"></a>
-<a href="https://www.patreon.com/somritht" target="_blank"><img src="https://c5.patreon.com/external/logo/downloads_logomark_color_on_white@2x.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;"></a>
+<a href="https://www.buymeacoffee.com/somrith" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 37px !important;width: auto !important;"></a>
+<a href="https://www.patreon.com/somritht" target="_blank"><img src="https://c5.patreon.com/external/logo/downloads_logomark_color_on_white@2x.png" alt="Buy Me A Coffee" style="height: 37px !important;width: auto !important;"></a>
 
 
 
