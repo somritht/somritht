@@ -10,7 +10,7 @@
   <strong>Full-Stack Developer</strong>
 </div>
 <div align="center">
-  Favourite Language/Framework: <code>Angular</code> <code>Laravel</code> <code>Express</code> <code>Flutter</code> 
+  <code>Angular</code> <code>Laravel</code> <code>Express</code> <code>Flutter</code> 
 </div>
 
 <br />
