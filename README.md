@@ -24,6 +24,15 @@
     <a href="https://www.youtube.com/channel/UC2Rjn5uTMlfEmxlxADmRA1Q">
       YouTube
     </a>
+    
+    <span> | </span>
+    <a href="https://dev.to/somritht">
+      Dev.to
+    </a>
+    <span> | </span>
+    <a href="https://somritht.medium.com/">
+      Medium
+    </a>
 
   </h3>
 </div>
