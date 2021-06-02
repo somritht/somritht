@@ -21,14 +21,12 @@
       Website
     </a>
     <span> | </span>
-    <a href="https://www.patreon.com/somritht">
-      Patreon
+    <a href="https://www.youtube.com/channel/UC2Rjn5uTMlfEmxlxADmRA1Q">
+      YouTube
     </a>
 
   </h3>
 </div>
-
-## Support me
 
 <h2 align="center">
   Support me
