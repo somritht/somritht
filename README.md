@@ -28,12 +28,11 @@
   </h3>
 </div>
 
-## Features
-- __auth ready:__ user auth ready with `jwt`
-- __MVC structure:__ easily maintain application
-- __migration/seeder ready:__ make easier to create db and seed
-- __ORM ready:__ this project include `Bookself` package easier to generating query quick.
-
 ## Support me
 
 <a href="https://www.buymeacoffee.com/somrith" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;"></a>
+<a href="https://www.patreon.com/somritht" target="_blank"><img src="https://c5.patreon.com/external/logo/downloads_logomark_color_on_white@2x.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;"></a>
+
+
+
+
