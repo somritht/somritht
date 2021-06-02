@@ -1,16 +1,39 @@
-### Hi there 👋
+<h1 align="center">
+  <img src="hhttps://avatars.githubusercontent.com/u/40352792" width="200px"/><br/>
+  Hi, I am Somritht
+</h1>
 
-<!--
-**somritht/somritht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  
+</div>
+<div align="center">
+  <strong>Full-Stack Developer</strong>
+</div>
+<div align="center">
+  Favourite Language/Framework: <code>Angular</code> <code>Laravel</code> <code>Express</code> <code>Flutter</code> 
+</div>
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <h3>
+    <a href="https://somritht.github.io/">
+      Website
+    </a>
+    <span> | </span>
+    <a href="https://www.patreon.com/somritht">
+      Patreon
+    </a>
+
+  </h3>
+</div>
+
+## Features
+- __auth ready:__ user auth ready with `jwt`
+- __MVC structure:__ easily maintain application
+- __migration/seeder ready:__ make easier to create db and seed
+- __ORM ready:__ this project include `Bookself` package easier to generating query quick.
+
+## Support me
+
+<a href="https://www.buymeacoffee.com/somrith" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;"></a>
