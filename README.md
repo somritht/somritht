@@ -23,8 +23,7 @@
     <span> | </span>
     <a href="https://www.youtube.com/channel/UC2Rjn5uTMlfEmxlxADmRA1Q">
       YouTube
-    </a>
-    
+    </a> 
     <span> | </span>
     <a href="https://dev.to/somritht">
       Dev.to
